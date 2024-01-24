@@ -1,0 +1,6 @@
+[submodule "libs/restclient-cpp"]
+	path = libs/restclient-cpp
+	url = https://github.com/ThatzOkay/restclient-cpp-wiiu.git
+[submodule "libs/jsoncpp"]
+	path = libs/jsoncpp
+	url = https://github.com/ThatzOkay/jsoncpp-wiiu.git
